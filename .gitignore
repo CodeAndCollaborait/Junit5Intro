@@ -41,6 +41,4 @@ hs_err_pid*
 .idea/jarRepositories.xml
 .idea/misc.xml
 Junit5Tutorial.iml
-pom.xml
-src/
 .idea/vcs.xml
