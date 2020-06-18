@@ -18,7 +18,6 @@ public class Example {
     }else {
       return  true;
     }
-    
   }
 
   
